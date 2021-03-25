@@ -10,7 +10,7 @@ httptools==0.0.13
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 pydantic==0.32.2
-PyYAML==5.1.2
+PyYAML==5.4
 roconfiguration==1.0.6
 rodi==1.0.8
 uvicorn==0.9.0

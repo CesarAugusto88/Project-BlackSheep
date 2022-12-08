@@ -1,7 +1,7 @@
 aiofiles==0.4.0
 blacksheep==0.2.1
 cchardet==2.1.4
-certifi==2019.9.11
+certifi==2022.12.7
 Click==7.0
 essentials==1.1.2
 guardpost==0.0.5
